@@ -1,0 +1,39 @@
+body {
+  background-image: url(img/faded-office.png);
+  background-size: cover;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+
+#title {
+  color: #020202;
+  font-family: inherit;
+  font-weight: 800;
+}
+
+.content {
+  margin-top: 50px;
+  margin-left: 60px;
+}
+
+#description {
+  font-family: inherit;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+#cta {
+  border-bottom: 5px solid #0ea5e9;
+  width: 400px;
+}
+
+button {
+  margin-top: 8px;
+  background: #0ea9e5;
+  color: white;
+  padding: 14px 28px;
+  margin-top: 20px;
+  font-weight: 800;
+  font-size: 20px;
+  border: none;
+}
